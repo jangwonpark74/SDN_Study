@@ -9,14 +9,12 @@
 ## SDN Vendor Comparision
 - [SDN Vendor Comparison](https://www.sdxcentral.com/articles/editorial/controller-onlab-juniper-open-source-sdn-battleground-part1/2013/12/)
 
-<<<<<<< HEAD
 ## KOREN SDN Cloud Infra
 - [KT's Approach for KOREN](http://www.krnet.or.kr/board/data/dprogram/2221/H3-1_%B9%DA%C3%E1%B0%C9.pdf)
 
 ## Open Flow Key Reference Material
  - [Inside Open Flow](https://inside-openflow.com/2016/06/08/openflow-key-reference-materials/)
 
-=======
 ## SDN Trend 
  - [Self Driving Network](https://www.juniper.net/us/en/dm/the-self-driving-network/)
 
@@ -27,7 +25,6 @@
  - [QFX10002 Fixed Ethernet Switch](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000531-en.pdf)
  
  
->>>>>>> 7977db0432b736907c0c808bd74214932b13b8e7
 ## Open Floodlight
 - [github floodlight](https://github.com/floodlight/floodlight)
 - [Open floodlight](https://www2.cs.duke.edu/courses/fall14/compsci590.4/notes/slides_floodlight_updated.pdf)
