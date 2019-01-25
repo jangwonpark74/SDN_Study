@@ -16,6 +16,7 @@
  - [Juniper QFX10000 Switch System Architecture](https://www.juniper.net/assets/us/en/local/pdf/whitepapers/2000599-en.pdf)
  - [Juniper QFX10000 Feature](https://stack-systems.com.ua/media/attachment/file/j/u/juniper_qfx10000_ethernet_switch.pdf)
  - [Juniper QFX10000 Series](https://www.oreilly.com/library/view/juniper-qfx10000-series/9781491922248/ch01.html)
+ - [QFX10002 Fixed Ethernet Switch](https://www.juniper.net/assets/us/en/local/pdf/datasheets/1000531-en.pdf)
  
  
 ## Open Floodlight
