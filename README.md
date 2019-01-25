@@ -3,6 +3,9 @@
 ## SDN Tutorial 
 - [SDN Duke Lecture Notes](https://www2.cs.duke.edu/courses/fall14/compsci590.4/notes/)
 
+## 국내 SDN Deployment
+- [SKT Network Intelligence with SDN](http://www.apnoms.org/2017/apnoms2017/ppt/ss1-2.pdf)
+
 ## SDN Vendor Comparision
 - [SDN Vendor Comparison](https://www.sdxcentral.com/articles/editorial/controller-onlab-juniper-open-source-sdn-battleground-part1/2013/12/)
 
