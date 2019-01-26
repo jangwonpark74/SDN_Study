@@ -18,6 +18,10 @@
 ## SDN Trend 
  - [Self Driving Network](https://www.juniper.net/us/en/dm/the-self-driving-network/)
 
+## Company Survey
+ - [Cisco](https://s2.q4cdn.com/230918913/files/doc_presentations/2018/ASM-2018-Presentation.pdf)
+ - [Juniper](https://s1.q4cdn.com/608738804/files/doc_presentations/2018/11/Juniper-Networks-IRDeck-Nov-2018.pdf)
+
 ## Product Benchmark
  - [Juniper QFX10000 Switch System Architecture](https://www.juniper.net/assets/us/en/local/pdf/whitepapers/2000599-en.pdf)
  - [Juniper QFX10000 Feature](https://stack-systems.com.ua/media/attachment/file/j/u/juniper_qfx10000_ethernet_switch.pdf)
