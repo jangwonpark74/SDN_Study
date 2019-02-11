@@ -3,6 +3,9 @@
 ## SDN Tutorial 
 - [SDN Duke Lecture Notes](https://www2.cs.duke.edu/courses/fall14/compsci590.4/notes/)
 
+## SDN Landscape (2016)
+ - [SDN Vendor Status](https://events.static.linuxfound.org/sites/events/files/slides/3%20%202016%20ONS%20ONF%20Mkt%20Opp%20Controller%20Landscape%20RChua%20Mar%2014%202016.pdf)
+
 ## 국내 SDN Deployment
 - [SKT Network Intelligence with SDN](http://www.apnoms.org/2017/apnoms2017/ppt/ss1-2.pdf)
 
