@@ -22,6 +22,7 @@
  - [Self Driving Network](https://www.juniper.net/us/en/dm/the-self-driving-network/)
 
 ## BGP MPLS-BASED Ethernet VPN  
+ - [VxLAN based MP-BGP EVPN Overview](https://blogs.cisco.com/datacenter/3rd-annual-interoperability-testing-converging-on-a-standard)
  - [IETF RFC7348 VxLAN Data Plane]
  - [IETF RFC7432](https://tools.ietf.org/html/rfc7432)
  - [IETF RFC7209 Motivation](https://tools.ietf.org/html/rfc7209)
