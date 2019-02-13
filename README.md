@@ -21,6 +21,10 @@
 ## SDN Trend 
  - [Self Driving Network](https://www.juniper.net/us/en/dm/the-self-driving-network/)
 
+## BGP MPLS-BASED Ethernet VPN  
+ - [IETF RFC7432](https://tools.ietf.org/html/rfc7432)
+
+
 ## Company Survey
  - [Cisco](https://s2.q4cdn.com/230918913/files/doc_presentations/2018/ASM-2018-Presentation.pdf)
  - [Juniper](https://s1.q4cdn.com/608738804/files/doc_presentations/2018/11/Juniper-Networks-IRDeck-Nov-2018.pdf)
